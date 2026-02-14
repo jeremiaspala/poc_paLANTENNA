@@ -2,7 +2,7 @@
 
 **Proof of Concept -- Ethernet Cable Electromagnetic Emission
 Transmission**\
-Inspired by LANtenna research\ https://arxiv.org/pdf/2110.00104
+Inspired by LANtenna research\ https://arxiv.org/pdf/2110.00104 (Mordechai Guri,Ben-Gurion - University of the Negev, Israel)
 Author: Jeremías Palazzesi
 
 ------------------------------------------------------------------------
@@ -178,17 +178,6 @@ Do not use this technique against systems without explicit
 authorization.
 
 The author assumes no responsibility for misuse.
-
-------------------------------------------------------------------------
-
-## Future Improvements
-
--   Synchronization preamble\
--   Automatic threshold adaptation\
--   Narrowband FFT filtering\
--   CRC integrity checking\
--   GNU Radio implementation\
--   Adaptive timing detection
 
 ------------------------------------------------------------------------
 
